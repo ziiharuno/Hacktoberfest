@@ -42,3 +42,4 @@ as you can and star this project to help as many people in opensource as you can
 
 ### Contributors
 - [Dean McKenzie](https://github.com/tuxhedoh)
+- [aika](https://github.com/redpfire)
