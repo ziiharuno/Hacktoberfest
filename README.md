@@ -23,7 +23,7 @@ You can get your own fork/copy of [Hello-world](https://github.com/piyush97/Hack
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/piyush97/Hacktoberfest)
 
 ### 3. Add a Program in any Language you like :rabbit2:
-Once you have forked the repo, add your progam in the language folder in 
+Once you have forked the repo, add your program in the language folder in 
 main branch, if there is no language folder, make one, then add into it.
 You can take a look to the [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages) in Wikipedia to create a new one Hacktoberfest !
 
@@ -40,3 +40,5 @@ as you can and star this project to help as many people in opensource as you can
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
+### Contributors
+- [midacts](https://github.com/midacts)
