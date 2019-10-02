@@ -1,9 +1,10 @@
-#include <iostream>
-using namespace std;
-
+#include <stdio.h>
+ 
 int main()
 {
-    cout<<"Hello World"<<endl;
-    return 0;
+   char z[100] = "Hello world";
+ 
+   printf("%s", z); // %s is format specifier
+ 
+   return 0;
 }
-
