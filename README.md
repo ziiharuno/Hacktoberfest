@@ -45,3 +45,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Pavitra Walia](https://github.com/pavitrawalia)
 - [Tharun Kumar](https://github.com/tharun634)
 - [Lemon Hex](https://github.com/LemonHex)
+- [Mindgamesnl](https://github.com/Mindgamesnl)
