@@ -23,18 +23,18 @@ You can get your own fork/copy of [Hello-world](https://github.com/piyush97/Hack
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/piyush97/Hacktoberfest)
 
 ### 3. Add a Program in any Language you like :rabbit2:
-Once you have forked the repo, add your progam in the language folder in 
+Once you have forked the repo, add your progam in the language folder in
 main branch, if there is no language folder, make one, then add into it.
 You can take a look to the [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages) in Wikipedia to create a new one Hacktoberfest !
 
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing 
+Once you have completed these steps, you are ready to start contributing
 by checking our `Help Wanted` issues and creating [pull requests](https://github.com/piyush97/Hacktoberfest/pulls).
 
 ### 5. Give this Project a Star :star:
 
-If you liked working on this project, please share this project as much 
+If you liked working on this project, please share this project as much
 as you can and star this project to help as many people in opensource as you can.
 
 
@@ -45,3 +45,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Pavitra Walia](https://github.com/pavitrawalia)
 - [Tharun Kumar](https://github.com/tharun634)
 - [Lemon Hex](https://github.com/LemonHex)
+- [Josue Mavarez](https://github.com/jMavarez)
