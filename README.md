@@ -44,3 +44,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Dean McKenzie](https://github.com/tuxhedoh)
 - [Pavitra Walia](https://github.com/pavitrawalia)
 - [Tharun Kumar](https://github.com/tharun634)
+- [Tristan3](https://github.com/Tristan3)
