@@ -48,3 +48,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Josue Mavarez](https://github.com/jMavarez)
 - [Prakash](https://github.com/Prakash3008)
 - [Rohith](https://github.com/RohithS001)
+- [Michal Durkalec](https://github.com/mehowthe)
