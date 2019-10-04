@@ -56,3 +56,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Rohith](https://github.com/RohithS001)
 - [Michal Durkalec](https://github.com/mehowthe)
 - [Naman Khurana](https://github.com/NamanKhurana)
+- [Debajit Chakraborty](https://github.com/debajit15kgp)
