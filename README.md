@@ -58,3 +58,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Naman Khurana](https://github.com/NamanKhurana)
 - [Debajit Chakraborty](https://github.com/debajit15kgp)
 - [Trainax](https://github.com/Trainax)
+- [Ayush](https://github.com/ayush1612)
