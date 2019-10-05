@@ -60,3 +60,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Trainax](https://github.com/Trainax)
 - [Ayush](https://github.com/ayush1612)
 - [Smarina](https://github.com/Smarina)
+- [Namor888](https://github.com/Namor888)
