@@ -47,6 +47,7 @@ as you can and star this project to help as many people in opensource as you can
 - [Vineet Jk](https://github.com/vineetjk)
 - [midacts](https://github.com/midacts)
 - [Dean McKenzie](https://github.com/tuxhedoh)
+- [Virendra Singh](https://github.com/virendrasinghrp)
 - [Pavitra Walia](https://github.com/pavitrawalia)
 - [Tharun Kumar](https://github.com/tharun634)
 - [Tristan3](https://github.com/Tristan3)
