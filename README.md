@@ -43,6 +43,7 @@ as you can and star this project to help as many people in opensource as you can
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ### Contributors
+- [Vineet Jk](https://github.com/vineetjk)
 - [midacts](https://github.com/midacts)
 - [Dean McKenzie](https://github.com/tuxhedoh)
 - [Pavitra Walia](https://github.com/pavitrawalia)
@@ -63,4 +64,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Namor888](https://github.com/Namor888)
 - [Crystal Yungwirth](https://github.com/crystal-dawn)
 - [Dely B](https://github.com/delyB)
-- [aika](https://github.com/redpfire
+- [aika](https://github.com/redpfire)
