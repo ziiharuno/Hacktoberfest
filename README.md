@@ -63,3 +63,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Namor888](https://github.com/Namor888)
 - [Crystal Yungwirth](https://github.com/crystal-dawn)
 - [Dely B](https://github.com/delyB)
+- [aika](https://github.com/redpfire
