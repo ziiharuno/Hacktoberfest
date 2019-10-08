@@ -51,6 +51,7 @@ as you can and star this project to help as many people in opensource as you can
 - [Virendra Singh](https://github.com/virendrasinghrp)
 - [Pavitra Walia](https://github.com/pavitrawalia)
 - [Tharun Kumar](https://github.com/tharun634)
+- [Kasper Aaquist Johansen](https://github.com/kaaquist)
 - [Tristan3](https://github.com/Tristan3)
 - [Lemon Hex](https://github.com/LemonHex)
 - [Mindgamesnl](https://github.com/Mindgamesnl)
