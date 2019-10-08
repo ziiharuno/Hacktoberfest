@@ -1,0 +1,2 @@
+loop all players:
+  send "Hello, world." to loop-player
