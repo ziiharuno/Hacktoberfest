@@ -70,3 +70,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Nikhil](https://github.com/NikhilAgrawal3012)
 - [Virendra](https://github.com/veer11997)
 - [Rahulraj S R](https://github.com/Rahulrajsr2714)
+- [Devnash Mishra](https://github.com/CircleJerkHug)
