@@ -75,3 +75,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Devnash Mishra](https://github.com/CircleJerkHug)
 - [Sonjoaquin](https://github.com/sonjoaquin)
 - [Upasana Deka](https://github.com/upasanadeka)
+- [Rounak Parihar](https://github.com/Rounak14)
