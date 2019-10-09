@@ -76,3 +76,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Sonjoaquin](https://github.com/sonjoaquin)
 - [Upasana Deka](https://github.com/upasanadeka)
 - [Rounak Parihar](https://github.com/Rounak14)
+- [Colossus20](https://github.com/Colossus20)
