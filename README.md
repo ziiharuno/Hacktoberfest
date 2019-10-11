@@ -78,3 +78,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Upasana Deka](https://github.com/upasanadeka)
 - [Rounak Parihar](https://github.com/Rounak14)
 - [Colossus20](https://github.com/Colossus20)
+- [Rutvik Doctor](https://github.com/doctor-rutvik14)
