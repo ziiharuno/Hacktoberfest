@@ -1,0 +1,6 @@
+Imports System
+Module HelloWorldOOSpanish
+  Sub Main(args as String())
+    Console.WrileLine("Hola Mundo!!!")
+  End Sub
+End Module
