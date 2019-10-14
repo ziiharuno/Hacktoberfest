@@ -45,6 +45,7 @@ as you can and star this project to help as many people in opensource as you can
 ### Contributors
 -[legendphoenix0](https://github.com/legendphoenix0)
 - [Santhosh M](https://github.com/santhosh15lm)
+- [Nischal Kanishk](https://github.com/NischalKanishk)
 - [Vineet Jk](https://github.com/vineetjk)
 - [midacts](https://github.com/midacts)
 - [Dean McKenzie](https://github.com/tuxhedoh)
