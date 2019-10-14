@@ -81,3 +81,4 @@ as you can and star this project to help as many people in opensource as you can
 - [Arnav Dixit](https://github.com/arnav127)
 - [Rutvik Doctor](https://github.com/doctor-rutvik14)
 - [Abhishekkr3003](https://github.com/Abhishekkr3003)
+- [samuelowad](https://github.com/samuelowad)
