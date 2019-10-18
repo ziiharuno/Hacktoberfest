@@ -85,3 +85,4 @@ as you can and star this project to help as many people in opensource as you can
 - [samuelowad](https://github.com/samuelowad)
 -[Conor Lyness](https://github.com/conorlyness)
 - [Sai Manasa Pappu](https://github.com/SaiManasaPappu)
+-[Aryan Garg](https://github.com/aaryangarg8)
